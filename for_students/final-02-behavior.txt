@@ -1,0 +1,14 @@
+Three different behaviors that you made:
+1. Bobbing & Rotating ship
+2. Cart driving in circle
+3. Roaming horse in paddock(state machine)
+
+One behavior that is not simple:
+Not simple: Roaming horse in paddock - 9 states that loop -> horse eats hay and roams paddock
+
+Animated Articulated Figure:
+Articulated: Fisherman: fishing line & fish move relative to fishing pole.
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- Spinning windmill
+- Chimney Smoke particle effect

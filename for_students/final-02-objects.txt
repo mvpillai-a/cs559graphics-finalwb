@@ -1,0 +1,29 @@
+(Required) Two kinds of objects created for this assignment:
+1. Ship
+2. Stable
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. House-## (from WB 8)
+4. Windmill (from WB 8)
+5. Blacksmith's
+6. Mushroom
+7. Mineshaft
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- Dock
+- Fisherman
+- Well (loaded fbx)
+
+At least on of each type of object:
+Building/structure: BigHouse-##
+Vehicle: Cart (from WB 8)
+Natural Element: Tree
+
+Object loaded from a model file:
+Model: Well
+
+An object with a shader that you wrote:
+ShaderObj: Mushroom
+
+Other Objects that you would like to note:
+Horses(Animated & Still)

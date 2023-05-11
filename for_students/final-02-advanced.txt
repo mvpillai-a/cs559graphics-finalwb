@@ -1,0 +1,5 @@
+Advanced Thing: 
+- Complex movement for roaming horse
+- Complex Object for ship: please I spent 3 hours trying to understand Polyhedron and lathe geometry for the sails and bow of the ship >:(
+- Animated Shader for flowing water? (maybe not complex enough-effect gained from just changing offset in stepworld)
+- Particle effect: Chimney Smoke

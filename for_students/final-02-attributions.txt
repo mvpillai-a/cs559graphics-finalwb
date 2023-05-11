@@ -1,0 +1,22 @@
+List all attributions here, this include "self-attributions":
+
+- Skybox reused from WB 9: Sky texture from Clean-PNG: https://www.cleanpng.com/png-skybox-texture-mapping-cube-mapping-desktop-wallpa-6020000/
+Objects:
+- Windmill, House, Tree, Cart all from WB 8
+Loaded Objects:
+- Well FBX: Well by Quaternius, found on poly.pizza, https://poly.pizza/m/QlqncKYxXb
+- Fish OBJ: Fish by Poly by Google, found on poly.pizza, https://poly.pizza/m/aEyLrUMMoUK, CC: https://creativecommons.org/licenses/by/3.0/
+- Tree OBJ: Big Tree by 3Donimus [CC-BY] via Poly Pizza, https://poly.pizza/m/dNWh762PN-6
+Textures:
+- Black Door (used in BigHouse & Blacksmith): free texture website but no author info, link: https://wildtextures.com/free-textures/metal/medieval-metal-door/
+- Dark Slate (used in Windmill): https://www.dreamstime.com/texture-black-brick-slate-wall-dark-grey-stone-texture-black-brick-slate-wall-dark-grey-stone-background-image176387217
+- Dark wood (used in Ship and Cart): https://www.pxfuel.com/en/desktop-wallpaper-eievu
+- Wooden Door (used in House, BigHouse, Stable): by leeor_net https://opengameart.org/node/12758 CC:https://creativecommons.org/licenses/by/3.0/
+- Land (used as ground texture/bumpMap, track bumpMap): by Rob Tuytel on Polyhaven, https://polyhaven.com/a/coast_sand_rocks_02 
+- Leaves (used in Tree): https://seamless-pixels.blogspot.com/2014/07/plant-hedge-bush-leaf-leaves-texture.html
+- Red Plaid (used in Fisherman): Image by Freepik, https://www.freepik.com/free-vector/flat-christmas-plaid-pattern-design_20286329.htm#query=red%20plaid&position=0&from_view=keyword&track=ais
+- Roof Tiles (used in House, BigHouse, Stable): https://www.pinterest.com/pin/321514860880490242/
+- Wood (used in House, BigHouse, Stable, Dock, Mineshaft): by gnrbishop on deviantart, https://www.deviantart.com/gnrbishop/art/Wood-floor-86913934
+- Stone Wall (used in House, BigHouse, Windmill, Blacksmith): https://stock.adobe.com/images/seamless-texture-of-grey-medieval-stone-wall-from-a-castle-in-sintra-portugal/298316551
+- Water (used in Island): Image by mrsiraphol on Freepik, https://www.freepik.com/free-photo/pool-water-background_1114565.htm#query=seamless%20water%20texture&position=9&from_view=search&track=ais
+- Window (used in House, BigHouse, Stable, Blacksmith): Cropped for use in WB, originally by Good Textures, https://www.goodtextures.com/image/16176/medieval-window-texture-16176
